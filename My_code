@@ -25,6 +25,13 @@
 
 #     return product
 
+
+# def crazyfunction(a, b):
+
+#     lalala = a * b/b
+
+#     return lalala
+
 #How can I change this
 # it actually worked
 #I finally understand how this works!
